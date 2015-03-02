@@ -1,1 +1,1 @@
-from debian
+from scratch
