@@ -1,3 +1,3 @@
-from scratch
+FROM adejonge/helloworld
 
 ADD mockfile .
